@@ -2,15 +2,15 @@
 Using the house price data set, i completed steps 1 through 3 of the EDA process. 
 # CA01 – Exploratory Data Analysis & Data Preparation (House Price Dataset)
 
-## 📌 Project Overview
+##  Project Overview
 This project focuses on **Exploratory Data Analysis (EDA)** and **data preparation** for a house price dataset.  
 The objective is to analyze the dataset structure, identify data quality issues, clean the data, and prepare it to be **analytics-ready** for future machine learning models.
 
-⚠️ **Model building is NOT part of this project.**
+ **Model building is NOT part of this project.**
 
 ---
 
-## 📂 Dataset
+##  Dataset
 The dataset is provided as part of the course materials:
 
 - **Training Data:** `house-price-train.csv`
@@ -21,7 +21,7 @@ Only the **training dataset** is used for this assignment.
 
 ---
 
-## 🎯 Project Goals
+##  Project Goals
 1. Understand the structure and characteristics of the dataset  
 2. Identify data quality issues using EDA  
 3. Fix data quality issues using Python  
@@ -29,7 +29,7 @@ Only the **training dataset** is used for this assignment.
 
 ---
 
-## 🧩 Project Structure
+##  Project Structure
 ├── CA01_EDA_House_Price.ipynb
 └── README.md
 
@@ -37,7 +37,7 @@ All analysis, visualizations, explanations, and conclusions are contained within
 
 ---
 
-## 🧪 Part 1 – Data Understanding & Exploratory Data Analysis (EDA)
+##  Part 1 – Data Understanding & Exploratory Data Analysis (EDA)
 
 **Key steps:**
 - Loaded and inspected dataset structure
@@ -58,7 +58,7 @@ All analysis, visualizations, explanations, and conclusions are contained within
 
 ---
 
-## 🧹 Part 2 – Data Cleaning & Pre-Processing
+##  Part 2 – Data Cleaning & Pre-Processing
 
 **Data quality issues identified in Part 1 were fixed using the following techniques:**
 
@@ -78,7 +78,7 @@ The result is a **clean, encoded, analytics-ready dataset**.
 
 ## 🔗 Part 3 – Collinearity Analysis & Feature Selection
 
-⚠️ **Only collinearity and feature selection were performed (no class imbalance analysis).**
+ **Only collinearity and feature selection were performed (no class imbalance analysis).**
 
 **Steps included:**
 - Computed correlation matrix for numeric features
@@ -98,17 +98,16 @@ The result is a **clean, encoded, analytics-ready dataset**.
 
 ---
 
-## ✅ Final Output
+##  Final Output
 - A fully documented Jupyter Notebook
 - Cleaned and feature-selected dataset ready for future machine learning models
 - No model training or evaluation included
 
 ---
 
-## 📝 Notes
+## 📝Notes
 - All observations, explanations, and conclusions are included in the notebook
 - This project follows the CA01 assignment instructions exactly
-- The notebook runs top-to-bottom without errors
 
 ---
 
